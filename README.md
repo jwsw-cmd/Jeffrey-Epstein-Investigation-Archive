@@ -21,3 +21,4 @@ Public-source archive of the Jeffrey Epstein case, including chronological timel
 | Lady-Lynn-Forester-de-Rothschild | Lady Lynn Forester de Rothschild related; primarily image files.           | [jwsw-cmd/Lady-Lynn-Forester-de-Rothschild](https://github.com/jwsw-cmd/Lady-Lynn-Forester-de-Rothschild) |
 | Epstein-Conclusion          | Conclusions / wrap-up on Epstein case.                                          | [jwsw-cmd/Epstein-Conclusion](https://github.com/jwsw-cmd/Epstein-Conclusion) |
 | Victims-of-Epstein          | Epstein’s victims overview (Epstein’s Victims.md).                              | [jwsw-cmd/Victims-of-Epstein](https://github.com/jwsw-cmd/Victims-of-Epstein) |
+| Mark-Zuck.                  | Mark's connection to Jeffery Epstein                                            | [jwsw-cmd/Mark-Zuck.](https://github.com/jwsw-cmd/Mark-Zuck./)           |
