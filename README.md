@@ -22,3 +22,4 @@ Public-source archive of the Jeffrey Epstein case, including chronological timel
 | Epstein-Conclusion          | Conclusions / wrap-up on Epstein case.                                          | [jwsw-cmd/Epstein-Conclusion](https://github.com/jwsw-cmd/Epstein-Conclusion) |
 | Victims-of-Epstein          | Epstein’s victims overview (Epstein’s Victims.md).                              | [jwsw-cmd/Victims-of-Epstein](https://github.com/jwsw-cmd/Victims-of-Epstein) |
 | Mark-Zuck.                  | Mark's connection to Jeffery Epstein                                            | [jwsw-cmd/Mark-Zuck.](https://github.com/jwsw-cmd/Mark-Zuck./)           |
+| Brian Capital               | Focused on Epstein's Connection with Brian Capital                                         m | [jwsw-cmd/Brian-Capital](https://github.com/jwsw-cmd/Brian-Capital)           |
